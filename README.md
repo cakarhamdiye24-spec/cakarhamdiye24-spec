@@ -3,14 +3,18 @@
 <!--
 **cakarhamdiye24-spec/cakarhamdiye24-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Merhaba 👋 Ben Hamdiye
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 Hakkımda
+- Python öğreniyorum
+- Veri bilimi ve yapay zekaya ilgi duyuyorum
+- Coursera üzerinden eğitim alıyorum
+
+## 🛠️ Kullandığım Teknolojiler
+- Python
+- Jupyter Notebook
+- Pandas, NumPy
+
+## 📫 Bana ulaşın
+- E-posta: cakarhamdiye@gmail.com
 -->
